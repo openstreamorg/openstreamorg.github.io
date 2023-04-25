@@ -3,7 +3,7 @@
     <title>OpenStream</title>
     <link href="https://openstreamorg.github.io/feed.xml" rel="self" />
     <link href="https://openstreamorg.github.io" />
-    <updated>2023-04-24T17:25:34+12:00</updated>
+    <updated>2023-04-25T16:50:39+12:00</updated>
     <author>
         <name>OpenStream Organization</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://openstreamorg.github.io/welcome-to-openstream.html"/>
         <id>https://openstreamorg.github.io/welcome-to-openstream.html</id>
 
-        <updated>2023-04-24T17:25:34+12:00</updated>
+        <updated>2023-04-25T16:50:39+12:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to OpenStream We don't believe in ads or premium plans. That's why we exist. We're here to make your music sessions, your wedding day, or even your chill time possible without ads or nags to by the paid plan. We've got a lot on&hellip;
@@ -39,6 +39,7 @@
 </ul>
 </li>
 </ul>
+<p>Can you help us? Notify us <a href="https://github.com/orgs/openstreamorg/discussions" title="Click here to notify us if you can contribute!" target="_blank" rel="noopener noreferrer">here</a> if you want to rid the world of 'Freemium' services!</p>
             ]]>
         </content>
     </entry>
