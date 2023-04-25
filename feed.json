@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "OpenStream",
+    "description": "",
+    "home_page_url": "https://openstreamorg.github.io",
+    "feed_url": "https://openstreamorg.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://openstreamorg.github.io/media/website/Untitled-drawing5.png",
+    "author": {
+        "name": "OpenStream Organization"
+    },
+    "items": [
+        {
+            "id": "https://openstreamorg.github.io/welcome-to-openstream.html",
+            "url": "https://openstreamorg.github.io/welcome-to-openstream.html",
+            "title": "Welcome to OpenStream!",
+            "summary": "Welcome to OpenStream We don't believe in ads or premium plans. That's why we exist. We're here to make your music sessions, your wedding day, or even your chill time possible without ads or nags to by the paid plan. We've got a lot on&hellip;",
+            "content_html": "<h1><figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://openstreamorg.github.io/media/posts/1/Untitled-drawing5.png\" alt=\"OpenStream Logo\" width=\"294\" height=\"294\" sizes=\"100vw\" srcset=\"https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-xs.png 300w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-sm.png 480w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-md.png 768w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-lg.png 1024w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-xl.png 1360w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-2xl.png 1600w\"></figure>Welcome to OpenStream</h1>\n<p>We don't believe in ads or premium plans. That's why we exist.</p>\n<p>We're here to make your music sessions, your wedding day, or even your chill time possible without ads or nags to by the paid plan.</p>\n<p> </p>\n<p> </p>\n<p>We've got a lot on our minds to fix the 'Freemium' world:</p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>OpenStream Music - stream your favourite music, without ads</li>\n<li>OpenStream Videos - stream your favourite videos, without ads</li>\n</ul>\n</li>\n</ul>",
+            "author": {
+                "name": "OpenStream Organization"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-24T17:25:34+12:00",
+            "date_modified": "2023-04-24T17:25:34+12:00"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>OpenStream</title>
+    <link href="https://openstreamorg.github.io/feed.xml" rel="self" />
+    <link href="https://openstreamorg.github.io" />
+    <updated>2023-04-24T17:25:34+12:00</updated>
+    <author>
+        <name>OpenStream Organization</name>
+    </author>
+    <id>https://openstreamorg.github.io</id>
+
+    <entry>
+        <title>Welcome to OpenStream!</title>
+        <author>
+            <name>OpenStream Organization</name>
+        </author>
+        <link href="https://openstreamorg.github.io/welcome-to-openstream.html"/>
+        <id>https://openstreamorg.github.io/welcome-to-openstream.html</id>
+
+        <updated>2023-04-24T17:25:34+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to OpenStream We don't believe in ads or premium plans. That's why we exist. We're here to make your music sessions, your wedding day, or even your chill time possible without ads or nags to by the paid plan. We've got a lot on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1><figure class="post__image post__image--left"><img loading="lazy"  src="https://openstreamorg.github.io/media/posts/1/Untitled-drawing5.png" alt="OpenStream Logo" width="294" height="294" sizes="100vw" srcset="https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-xs.png 300w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-sm.png 480w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-md.png 768w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-lg.png 1024w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-xl.png 1360w ,https://openstreamorg.github.io/media/posts/1/responsive/Untitled-drawing5-2xl.png 1600w"></figure>Welcome to OpenStream</h1>
+<p>We don't believe in ads or premium plans. That's why we exist.</p>
+<p>We're here to make your music sessions, your wedding day, or even your chill time possible without ads or nags to by the paid plan.</p>
+<p> </p>
+<p> </p>
+<p>We've got a lot on our minds to fix the 'Freemium' world:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>OpenStream Music - stream your favourite music, without ads</li>
+<li>OpenStream Videos - stream your favourite videos, without ads</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
