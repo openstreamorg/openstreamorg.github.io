@@ -3,12 +3,32 @@
     <title>OpenStream</title>
     <link href="https://openstreamorg.github.io/feed.xml" rel="self" />
     <link href="https://openstreamorg.github.io" />
-    <updated>2023-04-25T16:50:39+12:00</updated>
+    <updated>2023-04-28T07:34:11+12:00</updated>
     <author>
         <name>OpenStream Organization</name>
     </author>
     <id>https://openstreamorg.github.io</id>
 
+    <entry>
+        <title>OpenStream Music</title>
+        <author>
+            <name>OpenStream Organization</name>
+        </author>
+        <link href="https://openstreamorg.github.io/openstream-music.html"/>
+        <id>https://openstreamorg.github.io/openstream-music.html</id>
+
+        <updated>2023-04-28T07:34:11+12:00</updated>
+            <summary>
+                <![CDATA[
+                    OpenStream Music is almost here! Get ready to listen to some jams!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">OpenStream Music is almost here! Get ready to listen to some jams!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to OpenStream!</title>
         <author>
