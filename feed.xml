@@ -3,7 +3,7 @@
     <title>OpenStream</title>
     <link href="https://openstreamorg.github.io/feed.xml" rel="self" />
     <link href="https://openstreamorg.github.io" />
-    <updated>2023-04-28T07:34:11+12:00</updated>
+    <updated>2023-05-26T07:04:34+12:00</updated>
     <author>
         <name>OpenStream Organization</name>
     </author>
@@ -17,15 +17,42 @@
         <link href="https://openstreamorg.github.io/openstream-music.html"/>
         <id>https://openstreamorg.github.io/openstream-music.html</id>
 
-        <updated>2023-04-28T07:34:11+12:00</updated>
+        <updated>2023-05-26T07:04:34+12:00</updated>
             <summary>
                 <![CDATA[
-                    OpenStream Music is almost here! Get ready to listen to some jams!
+                    OpenStream Music is HERE! Download it now and install to listen to some jams!: If you love OpenStream Music, don't forget to give us a star on our GitHub page!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">OpenStream Music is almost here! Get ready to listen to some jams!</p>
+                <p>OpenStream Music is HERE! Download it now and install to listen to some jams!:</p>
+<table style="border-collapse: collapse; width: 100%; height: 251.797px;" border="1">
+<tbody>
+<tr style="height: 50.3594px;">
+<td style="width: 49.9288%; height: 50.3594px;"><strong>Platform</strong></td>
+<td style="width: 49.9288%; height: 50.3594px;"><strong>Download link</strong></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 49.9288%; height: 50.3594px;">Windows 7+</td>
+<td style="width: 49.9288%; height: 50.3594px;"><a href="https://github.com/openstreamorg/openstreammusic/releases/download/v1.0.0/OpenStream.Music.Setup.1.0.0.exe" target="_blank" rel="noopener noreferrer">Download from GitHub</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 49.9288%; height: 50.3594px;">Linux (Universal)</td>
+<td style="width: 49.9288%; height: 50.3594px;"><a href="https://github.com/openstreamorg/openstreammusic/releases/download/v1.0.0/OpenStream.Music-1.0.0.AppImage" target="_blank" rel="noopener noreferrer">Download from GitHub</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 49.9288%; height: 50.3594px;">Linux (Debian, Ubuntu)</td>
+<td style="width: 49.9288%; height: 50.3594px;"><a href="https://github.com/openstreamorg/openstreammusic/releases/download/v1.0.0/openstreammusic_1.0.0_amd64.deb">Download from GitHub</a></td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 49.9288%; height: 50.3594px;">Linux (Red Hat, SUSE)</td>
+<td style="width: 49.9288%; height: 50.3594px;"><a href="https://github.com/openstreamorg/openstreammusic/releases/download/v1.0.0/openstreammusic-1.0.0.x86_64.rpm" target="_blank" rel="noopener noreferrer">Download from GitHub</a></td>
+</tr>
+</tbody>
+</table>
+<p class="align-center"> </p>
+<figure class="post__image align-center"><img loading="lazy"  src="https://openstreamorg.github.io/media/posts/2/Screenshot-from-2023-05-12-07-03-15.png" alt="" width="708" height="399" sizes="100vw" srcset="https://openstreamorg.github.io/media/posts/2/responsive/Screenshot-from-2023-05-12-07-03-15-xs.png 300w ,https://openstreamorg.github.io/media/posts/2/responsive/Screenshot-from-2023-05-12-07-03-15-sm.png 480w ,https://openstreamorg.github.io/media/posts/2/responsive/Screenshot-from-2023-05-12-07-03-15-md.png 768w ,https://openstreamorg.github.io/media/posts/2/responsive/Screenshot-from-2023-05-12-07-03-15-lg.png 1024w ,https://openstreamorg.github.io/media/posts/2/responsive/Screenshot-from-2023-05-12-07-03-15-xl.png 1360w ,https://openstreamorg.github.io/media/posts/2/responsive/Screenshot-from-2023-05-12-07-03-15-2xl.png 1600w"></figure>
+<p>If you love OpenStream Music, don't forget to give us a star on our <a href="https://github.com/openstreamorg/openstreammusic" target="_blank" rel="noopener noreferrer">GitHub page</a>!</p>
             ]]>
         </content>
     </entry>
@@ -37,7 +64,7 @@
         <link href="https://openstreamorg.github.io/welcome-to-openstream.html"/>
         <id>https://openstreamorg.github.io/welcome-to-openstream.html</id>
 
-        <updated>2023-04-25T16:50:39+12:00</updated>
+        <updated>2023-05-26T07:03:00+12:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to OpenStream We don't believe in ads or premium plans. That's why we exist. We're here to make your music sessions, your wedding day, or even your chill time possible without ads or nags to by the paid plan. We've got a lot on&hellip;
@@ -54,7 +81,7 @@
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li>OpenStream Music - stream your favourite music, without ads</li>
+<li><a href="https://openstreamorg.github.io/openstream-music.html">OpenStream Music</a> - stream your favourite music, without ads</li>
 <li>OpenStream Videos - stream your favourite videos, without ads</li>
 </ul>
 </li>
